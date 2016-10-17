@@ -1,0 +1,9 @@
+//File: README
+//Author: Jonathan Carpenter
+//Email: carpenter.102@wright.edu
+
+This project implements and tests a singly linked list.
+
+To compile and run:
+   1) type "make"	//compile
+   2) type "./p2"  	//run
